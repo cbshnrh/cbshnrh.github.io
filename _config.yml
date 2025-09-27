@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"s
-title                    : "Cheng Du - Sequence Design & Signal Processing"
+title                    : "Cheng Du - Sequence Design"
 title_separator          : "-"
 name                     : &name "Cheng Du / 杜城"
 description              : &description "Assistant Professor @ Great Bay University"   # Update this with a general description of your site, this is the default if not overridden by a page
