@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Cheng Du / 杜城"
+site_theme               : "default" # Currently available options are "default", "air"s
+title                    : "Cheng Du - Sequence Design & Signal Processing"
 title_separator          : "-"
-name                     : &name "Cheng Du"
+name                     : &name "Cheng Du / 杜城"
 description              : &description "Assistant Professor @ Great Bay University"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://cbshnrh.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Cheng Du"
-  pronouns         : "he/him" # example: "she/her"  
+  pronouns         : # "he/him" # example: "she/her"  
   bio              : "Assistant Professor @ Great Bay University"
   location         : "Guandong, China"
   employer         : "Great Bay University"
