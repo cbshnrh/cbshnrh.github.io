@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # About Me
-I am currently an **Assistant Professor** at Great Bay University in China. I received my Ph.D. degree in Information and Communication Engineering from Fudan University in June 2025. Prior to that, I received my Bachelor's degree in Communication Engineering from Fudan University in June 2021. My doctoral research was supervised first by the late Prof. **Yi Jiang**, and later by Prof. **Xin Wang**, focusing on sequence designs and signal processing for communications.
+I am currently an **Assistant Professor** at Great Bay University in China. I received my Ph.D. degree in Information and Communication Engineering from Fudan University in June 2025. Prior to that, I received my Bachelor's degree in Communication Engineering from Fudan University in June 2021. My doctoral research was supervised first by the late Prof. **Yi Jiang**, and later by Prof. **Xin Wang**, focusing on sequence design and signal processing for communications.
 
 
 # Research Interests
