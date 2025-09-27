@@ -29,7 +29,7 @@ I am currently **recruiting one joint Ph.D. student (Start: Fall 2026)**. If you
 
 ## Requirements
 - A Master's degree (or expected to obtain) in Electrical Engineering, Communications, Applied Mathematics, or related areas  
-- Strong **curiosity and mathematical foundation** 
+- **Strong curiosity and mathematical foundation** 
   
 # Contact
 - **Email**: [cdu@gbu.edu.cn]  
