@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 # About Me
-I am currently an **Assistant Professor** at Great Bay University in China. I received my Ph.D. degree in Information and Communication Engineering from Fudan University in June 2025. Prior to that, I received my Bachelor's degree in Communication Engineering from Fudan University in June 2021. My doctoral research was supervised first by the late Prof. **Yi Jiang**, and later by Prof. **Xin Wang**, focusing on sequence design and signal processing for communications.
+I am currently an **Assistant Professor** at Great Bay University, a research-oriented university formally established in 2025，in China. I received my Ph.D. degree in Information and Communication Engineering from Fudan University in June 2025. Prior to that, I received my Bachelor's degree in Communication Engineering from Fudan University in June 2021. My doctoral research was supervised first by the late Prof. **Yi Jiang**, and later by Prof. **Xin Wang**, focusing on sequence design and signal processing for communications.
 
 
 # Research Interests
-My research lies at the intersection of **algebra, combinatorics, and signal processing**, with a special focus on sequence and matrix design for communication systems. My main interests include:
+My research lies at the intersection of algebra, combinatorics, and signal processing, with a special focus on **sequences with good correlations and their applications**. My main interests include:
 
 - **Golay complementary sequences**: Existence, constructions, and applications.
 - **Hadamard matrices**: Constructions and existence.
@@ -21,11 +21,11 @@ My research lies at the intersection of **algebra, combinatorics, and signal pro
 
 # Selected Contributions
 - New constructions of **Golay complementary sequence (array) sets** to improve their existence, i.e., to discover some new sizes.
-- Improved results on the **existence of Hadamard matrices**, refining classical asymptotic bounds (building upon R. Craigen’s work).
+- Improved results on the **existence of Hadamard matrices**, refining classical asymptotic bounds (building upon R. Craigen’s pioneering work).
 - Construction of **Generalized Step-Chirp (GSC) Sequences**, generalizing chirp-like sequences with all-pass spectrums to those with band-pass spectrums,  thus achieving flexible tradeoffs between the beamforming gain and the beam sweeping time in massive MIMO communications.
 
 # Current Opportunities
-I am currently **recruiting one joint Ph.D. student** (Start: Fall 2026). If you are motivated to work on problems in **sequence design or signal processing**, please feel free to reach out.
+I am currently **recruiting one joint Ph.D. student (Start: Fall 2026)**. If you are motivated to work on problems in **sequence design or signal processing**, please feel free to reach out.
 
 ## Requirements
 - A Master's degree (or expected to obtain) in Electrical Engineering, Communications, Applied Mathematics, or related areas  
