@@ -26,7 +26,7 @@ I am currently **recruiting one joint Ph.D. student** (Start: Fall 2026). If you
   
 ## Contact
 - **Email**: [cdu@gbu.edu.cn]  
-- **Institution**: University of Greater Bay Area  
+- **Institution**: Great Bay University  
 - **Location**: 16 University Road, Songshan Lake, Dongguan, Guangdong Province, China 
 
 
