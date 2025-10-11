@@ -22,7 +22,7 @@ My research lies at the intersection of algebra, combinatorics, and signal proce
 # Selected Contributions
 - New constructions of **Golay complementary sequence (array) sets** to improve their existence, i.e., to discover some new sizes.
 - Improved results on the **existence of Hadamard matrices**, refining classical asymptotic bounds (building upon R. Craigen’s pioneering work).
-- Construction of **Generalized Step-Chirp (GSC) Sequences**, generalizing chirp-like sequences with all-pass spectrums to those with band-pass spectrums,  thus achieving flexible tradeoffs between the beamforming gain and the beam sweeping time in massive MIMO communications.
+- Construction of **Generalized Step-Chirp (GSC) Sequences**, generalizing chirp-like sequences with all-pass spectra to those with band-pass spectra,  thus achieving flexible tradeoffs between the beamforming gain and the beam sweeping time in massive MIMO communications.
 
 # Current Opportunities
 I am currently **recruiting one joint Ph.D. student (Start: Fall 2026)**. If you are motivated to work on problems in **sequence design or signal processing**, please feel free to reach out.
