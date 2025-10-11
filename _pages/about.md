@@ -25,7 +25,7 @@ My research lies at the intersection of algebra, combinatorics, and signal proce
 - Construction of **Generalized Step-Chirp (GSC) Sequences**, generalizing chirp-like sequences with all-pass spectra to those with band-pass spectra,  thus achieving flexible tradeoffs between the beamforming gain and the beam sweeping time in massive MIMO communications.
 
 # Current Opportunities
-I am currently **recruiting one joint Ph.D. student (Start: Fall 2026)**. If you are motivated to work on problems in **sequence design or signal processing**, please feel free to reach out.
+I am currently **recruiting one joint Ph.D. student (Start: Fall 2026) and two postdocs**. If you are motivated to work on problems in **sequence design or signal processing**, please feel free to reach out.
 
 ## Requirements
 - A Master's degree (or expected to obtain) in Electrical Engineering, Communications, Applied Mathematics, or related areas  
